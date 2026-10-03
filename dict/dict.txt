@@ -1,0 +1,464 @@
+# FiberShop 汉化词典
+# 格式: 英文<TAB>中文    # 开头是注释，\n 表示换行
+# 改完保存即热生效，不用重启游戏
+# 注意区分大小写：Normal=法线(贴图)  normal=正常(混合模式)  Shift=偏移(Curl参数)
+
+File	文件
+Edit	编辑
+Help	帮助
+New	新建
+Open Project	打开项目
+Save Project	保存项目
+Save Project As	项目另存为
+Import	导入
+Import Block	导入模块
+Export	导出
+Export All Blocks	导出全部模块
+Export Selected Block	导出选中模块
+Exit	退出
+Exit?	退出？
+Are you sure you want to exit FiberShop?	确定要退出 FiberShop 吗？
+Cancel	取消
+OK	确定
+Continue	继续
+Close	关闭
+close	关闭
+Save	保存
+Load	载入
+Copy	复制
+Paste	粘贴
+Delete	删除
+Duplicate	创建副本
+Undo	撤销
+Redo	重做
+Browse	浏览
+browse	浏览
+Reset Preferences	重置首选项
+preferences	首选项
+Reset to default	恢复默认
+reset to default	恢复默认
+Enter text...	输入文字…
+New Text	新建文字
+About FiberShop	关于 FiberShop
+Get the Latest Version	获取最新版本
+Keyboard Shortcuts	键盘快捷键
+Online Documentation	在线文档
+ArtStation Blog	ArtStation 博客
+Discord Community	Discord 社区
+Instagram Page	Instagram 主页
+YouTube Channel	YouTube 频道
+Feature Request	功能建议
+Action	操作
+Description	说明
+Hotkey	快捷键
+developed by Moslem Tavakol	开发者 Moslem Tavakol
+Fiber Blocks	发丝模块
+New Block	新建模块
+Block	模块
+Project Settings	项目设置
+Document	文档
+Viewport	视图
+2D Viewport	2D 视图
+Reference Image	参考图
+Maps	贴图
+Material	材质
+Environment	环境
+Overright Values	覆盖数值
+overright values	覆盖数值
+Design	设计
+Bake & Colors	烘焙与颜色
+Bake Maps	烘焙贴图
+Bake and Export	烘焙并导出
+Bake maps and export files (as configured in export tab)	烘焙贴图并导出文件（按导出标签页的设置）
+Shading	着色
+Live Layout	实时布局
+Hide UI	隐藏界面
+Untitled Project	未命名项目
+Switch Viewport	切换视图
+Switch between 2D and 3D viewport	在 2D 与 3D 视图之间切换
+Frame All	框选全部
+Frame all objects into viewport	把所有对象框入视图
+Update 2D Viewport	更新 2D 视图
+Update all textures in design 2D viewport	更新设计 2D 视图中的全部贴图
+Add Modifier	添加修改器
+Hand Draw Mode	手绘模式
+main scatter	主散布
+Brush Settings	笔刷设置
+brush radius	笔刷半径
+brush width	笔刷宽度
+brush height	笔刷高度
+Preview Brush Size	预览笔刷大小
+Delete All Hidden Curves	删除全部隐藏曲线
+Press X to delete last drawed curve	按 X 删除最后绘制的曲线
+simplify drawing curve	简化绘制曲线
+Draw	绘制
+Pack	打包
+Auto size	自动适应大小
+Enable Snap	启用吸附
+Enable snap when moving blocks in 2D viewport	在 2D 视图中移动模块时启用吸附
+Width	宽度
+Width density	宽度密度
+Width randomness	宽度随机
+Depth	深度
+Depth density	深度密度
+Depth randomness	深度随机
+Depth (Height)	深度（高度）
+Depth (Hight)	深度（高度）
+Height	高度
+Depth curve	深度曲线
+Depth map	深度贴图
+depth map	深度贴图
+Length	长度
+length curve	长度曲线
+Length curve	长度曲线
+Length randomness	长度随机
+Length seed	长度种子
+Max segments	最大分段
+Segments	分段
+Max strands	最大发丝数
+Strands	发丝
+strands	发丝
+Thickness	粗细
+Thickness curve	粗细曲线
+Thickness randomness	粗细随机
+Root slope	根部倾斜
+Root randomness	根部随机
+Root	发根
+root	发根
+Tip	发梢
+tip	发梢
+Root / Tip	发根 / 发梢
+Root-Tip	发根-发梢
+Root-tip	发根-发梢
+Translate X	X 位移
+Translate Y	Y 位移
+Translate Z (depth)	Z 位移（深度）
+Scatter seed	散布种子
+Reduction (%)	缩减 (%)
+Reduction seed	缩减种子
+Randomness	随机
+Random Colors	随机颜色
+Seed	种子
+Angle	角度
+Angle curve	角度曲线
+Angle randomness	角度随机
+Start	起点
+End	终点
+Shift	偏移
+Shift randomness	偏移随机
+Scale	缩放
+Scale curve	缩放曲线
+Scale randomness	缩放随机
+Bend	弯曲
+Curl	卷曲
+Noise	噪波
+noise	噪波
+Clump	成簇
+Clump strength	成簇强度
+Clump strength curve	成簇强度曲线
+Clump Scatter	成簇散布
+Density	密度
+Density %	密度 (%)
+Strength	强度
+Strength curve	强度曲线
+Strength randomness	强度随机
+Strength by length	按长度调节强度
+Mask curve	遮罩曲线
+Mask left	遮罩左侧
+Mask right	遮罩右侧
+Masked	已遮罩
+Modify Mask	修改遮罩
+Left	左
+Right	右
+Perlin noise scale	柏林噪波缩放
+ID mode	ID 模式
+Albedo	反照率
+Albedo (Color)	反照率（颜色）
+Albedo texture	反照率贴图
+Specular	高光
+specular	高光
+Specular texture	高光贴图
+Specular tint	高光色调
+specular tint	高光色调
+Normal	法线
+normal	正常
+Normal texture	法线贴图
+Normal map scale	法线贴图缩放
+normal map scale	法线贴图缩放
+Strands normal	发丝法线
+strands normal	发丝法线
+Ambient	环境光
+ambient	环境光
+ambient occ	环境光遮蔽
+Opacity	不透明度
+Ppacity	不透明度
+Alpha (Opacity)	透明度（不透明度）
+Alpha	透明通道
+Alpha texture	透明贴图
+alpha	透明通道
+Roughness	粗糙度
+Smoothness	光滑度
+Smoothness texture	光滑度贴图
+Translucency	半透明
+Translucenc	半透明
+Direction	方向
+Direction (Flow)	方向（流向）
+Direction map	方向贴图
+direction map	方向贴图
+Main color	主色
+main color	主色
+Second color	次色
+second color	次色
+Solid Color	纯色
+Solid color	纯色
+solid color	纯色
+Main tint	主色调
+main tint	主色调
+Root tint	发根色调
+root tint	发根色调
+Tip tint	发梢色调
+tip tint	发梢色调
+Second tint	次色调
+second tint	次色调
+Reflection tint color	反射色调颜色
+reflection tint color	反射色调颜色
+Color	颜色
+color	颜色
+Color Picker	取色器
+Color randomness	颜色随机
+color randomness	颜色随机
+Blend mode	混合模式
+Flat	平面
+tube	管状
+Strands ID	发丝 ID
+Strand ID	发丝 ID
+ID	ID
+Strand Root-Tip	发丝发根-发梢
+Empty	空
+Green channel	绿通道
+green channel	绿通道
+Exposure	曝光
+exposure	曝光
+Light strength	光照强度
+light strength	光照强度
+Shadow rays	阴影光线
+shadow rays	阴影光线
+Shadow softness	阴影柔和度
+shadow softness	阴影柔和度
+Shadow strength	阴影强度
+shadow strength	阴影强度
+Rotation	旋转
+rotation	旋转
+Location	位置
+Gradient Remap	渐变重映射
+Gradient remap	渐变重映射
+Fiber Material (design tab)	发丝材质（设计标签页）
+Hair-Card Material (bake tab)	发卡材质（烘焙标签页）
+Fiber Material	发丝材质
+Hair-Card Material	发卡材质
+Preset	预设
+preset	预设
+Presset	预设
+presset	预设
+auto	自动
+Background color	背景色
+background color	背景色
+Background image	背景图
+background image	背景图
+Background image opacity	背景图不透明度
+background image opacity	背景图不透明度
+Overlay	叠加
+overlay	叠加
+Backdrop blur	背景模糊
+backdrop blur	背景模糊
+Backdrop blur mode	背景模糊模式
+backdrop blur mode	背景模糊模式
+Backdrop tint color	背景色调颜色
+backdrop tint color	背景色调颜色
+Sky preset	天空预设
+Rotate Environment	旋转环境
+Document color	文档颜色
+document color	文档颜色
+Document orientation	文档方向
+document orientation	文档方向
+Document aspect ratio	文档宽高比
+document aspect ratio	文档宽高比
+Lock document size	锁定文档尺寸
+lock document size	锁定文档尺寸
+Blocks offset	模块偏移
+Lock UV	锁定 UV
+Lock transform	锁定变换
+Set UV Size (drag on viewport)	设置 UV 尺寸（在视图中拖拽）
+Sort by Height	按高度排序
+UI scale	界面缩放
+2D viewport texture quality	2D 视图贴图质量
+You can change the resolution at any time	分辨率可随时更改
+Black and white	黑白
+BG	背景
+Background	背景
+Image	图像
+image	图像
+Visible	可见
+Export simple	简单导出
+Export advanced	高级导出
+Export each map in a separate image.	每张贴图导出为独立文件。
+Add Output Image	添加输出图像
+Output folder:	输出文件夹：
+Name prefix:	名称前缀：
+name prefix:	名称前缀：
+Map name:	贴图名称：
+map name:	贴图名称：
+_map name.format	_贴图名称.格式
+_map name	_贴图名称
+Create subfolders	创建子文件夹
+Edge padding	边缘留白
+Cards Division:	发卡分割：
+Fibers as mesh	发丝导出为网格
+UV-Ready cards	UV 就绪发卡
+Project file	工程文件
+export as curve	导出为曲线
+Export as curve	导出为曲线
+Format	格式
+Folder	文件夹
+File name	文件名
+FileName	文件名
+Start Export	开始导出
+Exporting	导出中
+Export complete	导出完成
+Albedo Map Exported	反照率贴图已导出
+Specular Map Exported	高光贴图已导出
+Normal Map Exported	法线贴图已导出
+Direction Map Exported	方向贴图已导出
+Ambient Map Exported	环境光贴图已导出
+Alpha Map Exported	透明贴图已导出
+Height Map Exported	高度贴图已导出
+Root-Tip Map Exported	发根-发梢贴图已导出
+baking maps	正在烘焙贴图
+Baking maps	正在烘焙贴图
+Delete Modifier?	删除修改器？
+Are you sure you want to delete this modifier?	确定要删除这个修改器吗？
+We need to bake the maps before continue.	继续之前需要先烘焙贴图。
+don't show it again	不再提示
+Re-Bake	重新烘焙
+Bake	烘焙
+Copy Filter	复制滤镜
+Paste Filter	粘贴滤镜
+Copy Modifier	复制修改器
+Paste Modifier	粘贴修改器
+Copy Values	复制数值
+Paste Values	粘贴数值
+Hide / Unhide	隐藏 / 取消隐藏
+Hold Ctrl to Unhide	按住 Ctrl 取消隐藏
+Color View	颜色视图
+Material View	材质视图
+Texture View	贴图视图
+All	全部
+none	无
+None	无
+invert	反相
+Add Filter	添加滤镜
+Filter	滤镜
+Modifier	修改器
+Camera	摄像机
+Default	默认
+Bend 01	弯曲 01
+AutoSave	自动保存
+Autosave interval (minutes)	自动保存间隔（分钟）
+Number of autosave files	自动保存文件数量
+Open AutoSave	打开自动保存
+Debug Log:	调试日志：
+empty log	清空日志
+Copy to Clipboard	复制到剪贴板
+error! can't connect to server	错误！无法连接到服务器
+FiberShop Personal	FiberShop 个人版
+Studio Perpetual	工作室永久版
+Click Here to Activate FiberShop	点此激活 FiberShop
+Get Your Serial Number	获取序列号
+Enter your Serial Number	输入序列号
+Serial Number:	序列号：
+License Type:	授权类型：
+Expire Date:	到期日期：
+Activate	激活
+Skip Activation	跳过激活
+You have successfully activated FiberShop :)	FiberShop 激活成功 :)
+You can check your license status on:\nHelp menu > about fibershop	可在「帮助菜单 > 关于 FiberShop」中查看授权状态
+remove license from this machine	从本机移除授权
+Are you sure you want to remove the license from this machine?	确定要从本机移除授权吗？
+Browse 3D.SK groom references	浏览 3D.SK 毛发参考图
+Loading	加载中...
+loading	加载中...
+Please wait	请稍候
+Rendering	渲染中
+Processing	处理中
+Saved	已保存
+Save failed	保存失败
+Select All	全选
+Position	位置
+Size	尺寸
+Name	名称
+name	名称
+Value	数值
+Values	数值
+Option A	选项 A
+Option B	选项 B
+Option C	选项 C
+Ctrl (hold)	Ctrl（按住）
+Shift+Left Mouse Btn	Shift+鼠标左键
++Y (default)	+Y（默认）
++Y = maya, blender, unity, toolbag...\n-Y = 3ds Max, unreal...	+Y = maya、blender、unity、toolbag…\n-Y = 3ds Max、unreal…
+Current	当前
+General	常规
+Linear	线性
+Flip horizontal	水平翻转
+Flip verical	垂直翻转
+Fly away	飞散
+Max Rows	最大行数
+New Project	新建项目
+Overright color	覆盖颜色
+Overright textures	覆盖贴图
+Read	读取
+Scatter	散布
+Strands Thickness	发丝粗细
+brown	棕色
+medum	中等
+E X P O R T	导 出
+Export Started...	导出已开始...
+Baking Maps Finished Successfully.	烘焙贴图完成。
+Baking Maps Canceled.	已取消烘焙贴图。
+AutoSave Done.	自动保存完成。
+Albedo Map Exported... please wait, export is still in progress	反照率贴图已导出... 请稍候，导出仍在进行中
+Specular Map Exported... please wait, export is still in progress	高光贴图已导出... 请稍候，导出仍在进行中
+Normal Map Exported... please wait, export is still in progress	法线贴图已导出... 请稍候，导出仍在进行中
+Direction Map Exported... please wait, export is still in progress	方向贴图已导出... 请稍候，导出仍在进行中
+Ambient Map Exported... please wait, export is still in progress	环境光贴图已导出... 请稍候，导出仍在进行中
+Alpha Map Exported... please wait, export is still in progress	透明贴图已导出... 请稍候，导出仍在进行中
+Height Map Exported... please wait, export is still in progress	高度贴图已导出... 请稍候，导出仍在进行中
+Root-Tip Map Exported... please wait, export is still in progress	发根-发梢贴图已导出... 请稍候，导出仍在进行中
+ID Map Exported... please wait, export is still in progress	ID 贴图已导出... 请稍候，导出仍在进行中
+Translucency Map Exported... please wait, export is still in progress	半透明贴图已导出... 请稍候，导出仍在进行中
+Camera Exported... please wait, export is still in progress	摄像机已导出... 请稍候，导出仍在进行中
+Project File Exported... please wait, export is still in progress	工程文件已导出... 请稍候，导出仍在进行中
+UV-Ready Cards Exported... please wait, export is still in progress	UV 就绪发卡已导出... 请稍候，导出仍在进行中
+Fiber Meshes Exported... please wait, export is still in progress	发丝网格已导出... 请稍候，导出仍在进行中
+Exporting Fiber Meshes Started... please wait, export is still in progress	开始导出发丝网格... 请稍候，导出仍在进行中
+Export Block Canceled.	已取消导出模块。
+Save Project Canceled.	已取消保存工程。
+Save Gradient Canceled.	已取消保存渐变。
+Error: can't export textures. you should bake the maps first.	错误：无法导出贴图。需要先烘焙贴图。
+Error: Specified directory is not accessible. Please specify a valid and accessible directory.	错误：指定的目录无法访问。请指定一个有效且可访问的目录。
+Error: output directory does not exist. please specify a valid and accessible directory.	错误：输出目录不存在。请指定一个有效且可访问的目录。
+Error: output directory does not exist or is inaccessible. please specify a valid and accessible directory.	错误：输出目录不存在或无法访问。请指定一个有效且可访问的目录。
+Error: the root directory of drives is not accessible. please specify an accessible directory.	错误：磁盘根目录不可用。请指定一个可访问的目录。
+Error: Autosave directory is not accessible. Autosave Canceled.	错误：自动保存目录无法访问。已取消自动保存。
+FiberShop Indie	FiberShop 独立版
+FiberShop Indie Perpetual	FiberShop 独立永久版
+FiberShop School	FiberShop 教育版
+FiberShop Studio	FiberShop 工作室版
+FiberShop Studio Perpetual	FiberShop 工作室永久版
+Export Done Successfully:   *	导出完成：   
+Export Block Done Successfully:   *	模块导出完成：   
+Project Saved Successfully: *	工程已保存：
+Project Loaded Successfully: *	工程已载入：
+Loading the Project: *	正在载入工程：
+Flipped edges: *	翻转边：
+Triangles: *	三角面：
